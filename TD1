@@ -1,0 +1,19 @@
+## TD-1: Installation of PostGIS and Creation of a Spatial Database
+
+### Overview:
+This practical assignment guides students through the installation of PostgreSQL and PostGIS and the creation of a spatial database. It emphasizes setting up a geospatial database environment and extending PostgreSQL with spatial functionalities using PostGIS.
+
+### Key Tasks:
+1. **Install PostgreSQL**:
+   - Download and set up PostgreSQL for your operating system (Linux, MacOS, Windows).
+2. **Install PostGIS**:
+   - Use the Stack Builder to install the PostGIS extension during the PostgreSQL setup.
+3. **Create a Spatial Database**:
+   - Use pgAdmin 4 to connect to PostgreSQL.
+   - Create a new database.
+   - Add the PostGIS extension to enable geospatial data handling.
+
+### Learning Objectives:
+- Understand the basics of setting up a geospatial database system.
+- Install necessary tools and extensions for spatial data processing.
+- Create a geospatial database and validate its installation using pgAdmin 4.
